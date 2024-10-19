@@ -34,7 +34,11 @@
 
 ---
 
+![alt text]https://github.com/VladisProtas/Host-Protection/blob/main/img/Снимок1.PNG
 
+![alt text]https://github.com/VladisProtas/Host-Protection/blob/main/img/Снимок2.PNG
+
+![alt text]https://github.com/VladisProtas/Host-Protection/blob/main/img/Снимок.PNG
 
 ---
 
@@ -50,6 +54,10 @@
 
 ---
 
+![alt text]https://github.com/VladisProtas/Host-Protection/blob/main/img/Снимок3.PNG
 
+![alt text]https://github.com/VladisProtas/Host-Protection/blob/main/img/Снимок4.PNG
+
+![alt text]https://github.com/VladisProtas/Host-Protection/blob/main/img/Снимок5.PNG
 
 ---
